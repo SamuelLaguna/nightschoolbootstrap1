@@ -1,0 +1,30 @@
+.bgRed{
+    background-color: red;
+}
+
+.bgBlue{
+    background-color: blue;
+}
+
+.bgGreen{
+    background-color: green;
+}
+
+.outline{
+    border: 2px solid;
+}
+
+.bgOrange{
+    background-color: orange;
+}
+
+.frame{
+    border: 4px solid;
+    border-radius: 20px;
+}
+
+
+.center{
+    display: flex;
+    justify-content: end;
+}
